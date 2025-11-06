@@ -1,5 +1,7 @@
 This is a tutorial of how to use my neovim dotfiles
 
+# This is for packer Nvim
+
 1. Download and unzip it
 2. create a directory named: nvim in .config ( this is for linux )
 3. Copy every  gah dayum files in this directiory
